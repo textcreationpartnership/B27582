@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Old John Hopkin's, and Tho. Sternhold's, petition to the Parliament against the new version of the Psalms.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27582</idno><idno type="EEBO-CITATION">99889776</idno>
+  <idno type="VID">200855</idno>
+  <idno type="EEBO-PROQUEST">2240912363</idno>
+  
+            <idno type="OCLC"> 12633468</idno>
+            <idno type="STC">Wing O204A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.9[108]</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.5937[330]</idno>
+            <idno type="STC">ESTC R32320</idno>
+            <idno type="PROQUEST">ocm99889776</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889776e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27582)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200855)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A8:1[110]; E2:4[179f-180a])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Old John Hopkin's, and Tho. Sternhold's, petition to the Parliament against the new version of the Psalms.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wells, in St. Paul's church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Hopkins, John, d. 1570 --  Poetry --  Early works to 1800.</term>
+               <term type="personal_name">Sternhold, Thomas, d. 1549 --  Poetry --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:200855:1"/>
+            <head>
+               <hi>Old</hi> John Hopkin<hi>'s, and</hi> Tho. Sternhold<hi>'s,</hi> Petition to the PARLIAMENT <hi>Against New Version of the</hi> Psalms.</head>
+            <lg>
+               <l>TO the Great Council of the Nation,</l>
+               <l>The sad and hearty Lamentation</l>
+               <l>Of Good King <hi>David</hi>'s Old Translation,</l>
+               <l>Most humbly shews, the Toleration</l>
+               <l>Of any New Versification,</l>
+               <l>Is against Ancient Legislation:</l>
+               <l>Since former Senates Approbation</l>
+               <l>Was giv'n to their Old Explication,</l>
+               <l>They humbly beg the Consolation</l>
+               <l>To let 'em keep their former Station,</l>
+            </lg>
+            <lg>
+               <l>WHereas your <hi>Orators</hi> and <hi>Beadmen,</hi>
+               </l>
+               <l>Full sore against their Wills, are dead Men,</l>
+               <l>And should have slept without Offence</l>
+               <l>As common is to Men of Sense,</l>
+               <l>Had not their Learned Ekes and Ayes</l>
+               <l>So famous in Queen <hi>Besse</hi>'s Days,</l>
+               <l>Been in such Danger, as to make</l>
+               <l>Their Parents yearning Bowels speak.</l>
+               <l>Ah! Think ye Masters how can we</l>
+               <l>Enjoy our dear beloved <hi>Glee,</hi>
+               </l>
+               <l>When these the Children of our Stile</l>
+               <l>Are dispossess'd by <hi>Fraud</hi> and <hi>Guile,</hi>
+               </l>
+               <l>And yield to Brats of <hi>Priest</hi> and <hi>Player,</hi>
+               </l>
+               <l>Not half so well brought up as they are?</l>
+               <l>Because, Forsooth, our Dress is lowly,</l>
+               <l>Must this our Garment be unholy?</l>
+               <l>Or can it be esteem'd a Fault,</l>
+               <l>That <hi>Hebrew</hi> Plainess is in <hi>Hebrew</hi> thought?</l>
+               <l>As if meek <hi>Innocence</hi> should wear</l>
+               <l>The guilty <hi>Tinsil</hi> of the <hi>Fair;</hi>
+               </l>
+               <l>Or Men approv'd the Text Divine,</l>
+               <l>Not for its Truth, but 'cause its Words were fine.</l>
+               <l>For Heav'ns sake, Sirs, consider on it,</l>
+               <l>A Psalm should not be like a Sonnet;</l>
+               <l>And He that writes a <hi>Birth-Day Song</hi>
+               </l>
+               <l>With Praise, may do the <hi>Psalmist</hi> wrong.</l>
+               <l>Alas! Poor King! He mourns and weep,</l>
+               <l>Nor longer <hi>with his Fathers sleeps!</hi>
+               </l>
+               <pb facs="tcp:200855:2"/>
+               <l>"How are my Foes increas'd, <hi>he cries,</hi>
+               </l>
+               <l>"Which vex me <hi>more and more?</hi>
+               </l>
+               <l>"How do they swagger, who devise</l>
+               <l>"To trouble me <hi>full sore?</hi>
+               </l>
+               <l>"<hi>Saul</hi> have I born, and eke the Smart</l>
+               <l>"Of Sickness, and of Pain:</l>
+               <l>"But oh! They pierce my Righteous Heart,</l>
+               <l>"Who now my Sense would strain.</l>
+               <l>"<hi>Full empty</hi> are the Words, God knows,</l>
+               <l>"Which now they make me speak,</l>
+               <l>"I'd sooner bear <hi>Goliah</hi>'s Blows</l>
+               <l>"Than what I now do take.</l>
+               <l>"<hi>Milbourn,</hi> and <hi>Barton,</hi> are but <hi>Chits</hi>
+               </l>
+               <l>"In Mischief to this Pair,</l>
+               <l>"Who now on me employ their Wits,</l>
+               <l>"'Twould make a Saint to swear.</l>
+               <l>"Oh! Let 'em as their Hands have done,</l>
+               <l>"And they deserve indeed,</l>
+               <l>"And after their Invention</l>
+               <l>"Let 'em receive their <hi>Meed.</hi>
+               </l>
+               <l>"Since I who could the Fury fell</l>
+               <l>"Of <hi>Saul</hi>'s enraged Mind</l>
+               <l>"With Holy Psalms and Musick quell,</l>
+               <l>"No Rest my self can find.</l>
+               <l>"For now not <hi>Saul</hi>'s, but <hi>David</hi>'s, Soul</l>
+               <l>"With Madness is full fraught;</l>
+               <l>"And I who could his <hi>Rage</hi> controul,</l>
+               <l>"Have his <hi>Distemper</hi> caught.</l>
+            </lg>
+            <lg>
+               <l>Thus (Senators) the Royal Bard</l>
+               <l>Would have his wretched <hi>Ailments</hi> heard;</l>
+               <l>And thus before your Wisdoms Sage,</l>
+               <l>He lays the Reasons of his Rage.</l>
+               <l>We too must join against these Elves,</l>
+               <l>And beg for <hi>David,</hi> and our Selves:</l>
+               <l>Oh! For those Lines by <hi>Nich.</hi> and <hi>Nahum,</hi>
+               </l>
+               <l>Let no one sing or ever say 'em;</l>
+               <l>Nor take our Priviledges from us,</l>
+               <l>Whilst I am <hi>John</hi> and I am <hi>Thomas.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And your Petitioners shall pray</hi>
+               </l>
+               <l>
+                  <hi>For Evermore, and Eke for Aye.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                  </figure>The Papers, concerning this Subject, that have not this prefix'd, are not genuine.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>John Wells,</hi> in St. <hi>Paul</hi>'s Church-yard, 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
